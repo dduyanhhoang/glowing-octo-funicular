@@ -1,7 +1,16 @@
-# glowing-octo-funicular repo
+# Introduction to Git and GitHub
 
-Simple interest calculator: $I = P \times r \times t$, where:
-- $I$ = Total interest earned or paid.
-- $P$ = Principal amount (the initial sum of money).
-- $r$ = Annual interest rate (expressed as a decimal, e.g., 5% = 0.05).
-- $t$ = Time the money is borrowed or invested (typically in years)
+## Simple Interest Calculator
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+```
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
+
+_© 2022 XYZ, Inc._
